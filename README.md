@@ -4,7 +4,7 @@
 tips and tricks for becoming your best self when faced with a UNIX (or
 Linux) terminal. This also just so happens to be a book.
 
-## TL;DR
+## Summary
 
 Learn to use the UNIX terminal interface with the least amount of
 installation and setup possible --- specifically, vim, bash,
