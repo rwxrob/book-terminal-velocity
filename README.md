@@ -10,7 +10,7 @@ Learn to use the UNIX terminal interface with the least amount of
 installation and setup possible --- specifically, vim, bash,
 screen/tmux, lynx/w3m, and docker/podman. We'll follow the UNIX
 philosophy when editing files, creating tools, and doing research.
-Eventually, you'll be 10 times faster than those who depend on
+Eventually, you will become much faster than those who depend on
 cumbersome graphic user interfaces for most of the same tasks.
 
 ## Table of Contents
