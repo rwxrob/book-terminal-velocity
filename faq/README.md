@@ -17,4 +17,9 @@ limit yourself when there is a specific requirement to do so. When POSIX
 compatibility is needed simply use `shellcheck` to restrict yourself to
 using only what such shell support.
 
+## Why bash shell?
 
+* Bash is the default on all enterprise Linux distributions
+* Bash is the most secure Linux shell on the planet
+* Bash is the most powerful shell scripting language (associative
+  arrays, regular expressions, parameter expansion, etc.)
