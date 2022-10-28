@@ -16,3 +16,4 @@ when they created Markdown.
 * [Optimal Blog Length](/optimal-blog-length)
 * [First Person, Friendly, Casual Voice](/first-person-friendly-casual-voice/)
 * [Beware, Strong Opinions Ahead](/beware-strong-opinions-ahead)
+* [Know What You Don't Know](/know-what-you-dont-know)
