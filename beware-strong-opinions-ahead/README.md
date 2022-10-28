@@ -47,12 +47,12 @@ to master? Yes, but not by as much as you might think, and the reward of
 empowerment help you at every level of your tech career, or just life in
 general. Tech is for artists and creatives as well.
 
-There are other, kinder, less pedantic, offensive, and demanding mentors
-out there, to be sure. They aren't me. I mean, I'm no Cobra Kai, and I'm
-no drill sergeant. (I once worked for one, so I know.) But, if your
-style doesn't match mine then it is best you stop reading now and find
-someone else. I do sincerely hope you find one (and will do my best to
-help you find one when asked).
+There are other, kinder, less pedantic, less offensive, and less
+demanding mentors out there, to be sure. They aren't me. I mean, I'm no
+Cobra Kai, and I'm no drill sergeant. (I once worked for one, so I
+know.) But, if your style doesn't match mine then it is best you stop
+reading now and find someone else. I do sincerely hope you find one (and
+will do my best to help you find one when asked).
 
 My greatest joy from all of this is hearing those [few words of thanks
 and praise](https://github.com/rwxrob/cv/blob/main/data.yml) usually
