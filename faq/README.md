@@ -9,3 +9,12 @@
 **Q: Why not use csh/tcsh shell?**  
 **Q: Why not use POSIX (ash/dash) shell?**  
 **Q: Why `podman` instead of `docker`?**  
+
+## Q: Why not use POSIX (ash/dash) shell?
+
+It's simply safer and easier to learn to code everything in `bash` and
+limit yourself when there is a specific requirement to do so. When POSIX
+compatibility is needed simply use `shellcheck` to restrict yourself to
+using only what such shell support.
+
+
