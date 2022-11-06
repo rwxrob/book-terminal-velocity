@@ -1,4 +1,4 @@
-# Only Bash and POSIX Shell Progamming
+# Only Bash and POSIX Shell Programming
 
 I want to warn those reading who want to become software developers. Sorry, you'll need more than just what you can learn in *Terminal Velocity* but this is arguably the best start on your path to becoming a *good* software developer.
 
@@ -8,4 +8,12 @@ If you are concerned with making the best first-coding impression on yourself yo
 
 What language should you learn first?
 
-I've worked with thousands to learn coding and my personal experience has been that learning  Python, then Go, then C gives the strongest foundation upon which to build everything else. Then, eventually, everyone should learn at a least minimal Web development with HTML, CSS, and basic JavaScript to understand how networking and the Interwebz works. I realize this is likely not what others have told you. Learning Web development as the first (and only) type of "software development" is extremely common on the Interwebz. You can always leverage your terminal mastery skills (as many popular streamers and YouTubers do) even if you decide later to just do Web development.
+I've worked with thousands to learn coding and my personal experience has been that learning  Python, then Go, then C gives the strongest foundation upon which to build everything else. Then, eventually, everyone should learn at a least minimal Web development with HTML, CSS, and basic JavaScript to understand how networking and the Interwebz works.
+
+I realize those recommendations are likely not what you are hearing from others. Learning Web development as the first (and only) type of "software development" is extremely common, but incomplete if you want to gain full understanding. You can always leverage your terminal mastery skills to be a much better Web developer (as many popular streamers and YouTubers do) even if you decide later to just do Web development.
+
+::: Rant
+
+Please don't call yourself a "software engineer" if all you've learned to code are Web applications. It confuses people and is actually illegal in Canada where the title "engineer" is reserved for people with the proper training, like "electrician" or "doctor." Linus Torvaldz, Linux inventors, refuses to refer to Web developers as "developers" at all, which is farther than I would go, but just so you know.
+
+:::
