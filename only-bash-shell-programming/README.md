@@ -8,7 +8,7 @@ If you are concerned with making the best first-coding impression on yourself yo
 
 What language should you learn first?
 
-I've helped thousands to learn coding and my personal (unscientific but informed) opinion has been that learning Python, then Go, then C gives the strongest foundation upon which to build everything else. Then, eventually, everyone should learn minimal Web development with HTML, CSS, and basic JavaScript to understand how networking and the Interwebz works. From there the sky's the limit. PHP, Java, Kotlin, Swift, C++, Rust, Haskell, Erlang, Crystal, Julia, even Perl, Lisp, Fortran, and COBOL are all very viable languages solving very interesting --- and different --- problems in the world.
+I've helped thousands to learn coding and my personal (unscientific but informed) opinion has been that learning Python, then Go, then C, gives the strongest foundation upon which to build everything else. Then, eventually, everyone should learn minimal Web development with HTML, CSS, and basic JavaScript to understand how networking and the Interwebz works. From there the sky's the limit. PHP, Java, Kotlin, Swift, C++, Rust, Haskell, Erlang, Crystal, Julia, even Perl, Lisp, Fortran, and COBOL are all very viable languages solving very interesting --- and different --- problems in the world.
 
 I realize those recommendations are likely not what you are hearing from others. Learning Web development as the first (and only) type of "software development" is extremely common, but incomplete if you want to gain full understanding. You can always leverage your terminal mastery skills to be a much better Web developer (as many popular streamers and YouTubers do) even if you decide later to just do Web development.
 
