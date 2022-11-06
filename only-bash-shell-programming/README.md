@@ -12,7 +12,7 @@ I've worked with thousands to learn coding and my personal experience has been t
 
 I realize those recommendations are likely not what you are hearing from others. Learning Web development as the first (and only) type of "software development" is extremely common, but incomplete if you want to gain full understanding. You can always leverage your terminal mastery skills to be a much better Web developer (as many popular streamers and YouTubers do) even if you decide later to just do Web development.
 
-::: rant
+::: Rant
 
 Please don't call yourself a "software engineer" if all you've learned to code are Web applications. It confuses people and is actually illegal in Canada where the title "engineer" is reserved for people with the proper training, like "electrician" or "doctor." Linus Torvaldz, Linux inventors, refuses to refer to Web developers as "developers" at all, which is farther than I would go, but just so you know.
 
