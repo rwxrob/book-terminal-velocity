@@ -14,6 +14,6 @@ I realize those recommendations are likely not what you are hearing from others.
 
 ::: Rant
 
-Please don't call yourself a "software engineer" if all you've learned to code are Web applications. It confuses people and is actually illegal in Canada where the title "engineer" is reserved for people with the proper training, like "electrician" or "doctor." Linus Torvaldz, Linux inventors, refuses to refer to Web developers as "developers" at all, which is farther than I would go, but just so you know.
+Please don't call yourself a "software engineer" if all you've learned to code are Web applications. It confuses people and is actually illegal in Canada where the title "engineer" is reserved for people with the proper training, like "electrician" or "doctor." Linus Torvaldz, Linux inventor, refuses to refer to Web developers as "developers" at all, which is farther than I would go, but just so you know.
 
 :::
