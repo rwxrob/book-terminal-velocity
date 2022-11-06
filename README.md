@@ -1,26 +1,22 @@
-# 📕 Terminal Velocity: Mastering the Fastest Human-Computer Interface
+# 📕Terminal Velocity: Mastering the Fastest Human-Computer Interface
 
-*Terminal Velocity* is first and foremost an online knowledge base of
-tips and tricks for becoming your best self when faced with a UNIX (or
-Linux) terminal. This also just so happens to be a book.
+Wanna become a terminal master? This is the way.
 
-## Summary
+*Terminal Velocity* is a free[^1] collection of tutorials, tips, and tricks used by long-time UNIX terminal users to help you master the most powerful and ubiquitous terminal commands available today. It's not enough to just learn these commands. You need to understand what they are good for and why, how deeply each needs to be understood, how do they work together, how to apply the UNIX philosophy to combine them together in truly mind-blowing ways.
 
-Learn to use the UNIX terminal interface with the least amount of
-installation and setup possible --- specifically, vim, bash,
-screen/tmux, lynx/w3m, and docker/podman. We'll follow the UNIX
-philosophy when editing files, creating tools, and doing research.
-Eventually, you will become much faster than those who depend on
-cumbersome graphic user interfaces for most of the same tasks.
+*Terminal Velocity* also responses to challenges like "Why use a terminal at all?" (spoiler alert: it's not just because terminal users are "old and backward"); and "Why not use this other command?" Having these answers reduces subjective debate giving you more time to do productive things with nothing but a terminal and a keyboard (as well as when AFK).
 
-## Table of Contents
+[^1]: CC-NC-ND, Attribution-NonCommercial-NoDerivs 3.0 Unported (Thanks for your support if you choose to buy the paid version.)
 
-1. [Content Organization and Style](/content-organization-and-style)
-1. [Fastest Human-Computer Interface](/fastest-human-computer-interface)
-1. [Get Bash](/get-bash)
-1. [Edit Without Installing](/edit-without-installing)
-1. [It's All Code](/its-all-code)
-1. [Multiplex Flex](/multiplex-flex)
-1. [Research from Command-Line](/research-from-command-line)
-1. [Contain Yourself](/contain-yourself)
-1. [Frequently Answered Questions](/faq)
+* [Only Bash Shell Programming](/only-bash-shell-programming)
+* [Content Organization and Style](/content-organization-and-style)
+* [What commands exactly?](/what-commands-exactly)
+* [Fastest Human-Computer Interface](/fastest-human-computer-interface)
+* [Get Bash](/get-bash)
+* [Edit Without Installing](/edit-without-installing)
+* [It's All Code](/its-all-code)
+* [Multiplex Flex](/multiplex-flex)
+* [Research from Command-Line](/research-from-command-line)
+* [Contain Yourself](/contain-yourself)
+* [Stuff Left Out on Purpose](/stuff-left-out-on-purpose)
+* [Frequently Answered Questions](/faq)

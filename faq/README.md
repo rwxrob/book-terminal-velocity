@@ -10,6 +10,8 @@
 **Q: Why not use POSIX (ash/dash) shell?**  
 **Q: Why `podman` instead of `docker`?**  
 
+* [Stuff Left Out On Purpose](/stuff-left-out-on-purpose)
+
 ## Q: Why not use POSIX (ash/dash) shell?
 
 It's simply safer and easier to learn to code everything in `bash` and
