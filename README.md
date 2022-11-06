@@ -1,5 +1,7 @@
 # 📕Terminal Velocity: Mastering the Fastest Human-Computer Interface
 
+*State of this book is current a working draft with the goal of having it widely available (including Amazon and other book publishers) by May 4th, 2023. While open issues are welcome as suggestions, no PRs will be accepted.*
+
 Wanna become a terminal master? This is the way.
 
 *Terminal Velocity* is a free[^1] collection of tutorials, tips, and tricks used by long-time UNIX terminal users to help you master the most powerful and ubiquitous terminal commands available today. It's not enough to just learn these commands. You need to understand what they are good for and why, how deeply each needs to be understood, how do they work together, how to apply the UNIX philosophy to combine them together in truly mind-blowing ways.
